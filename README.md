@@ -1,6 +1,6 @@
 # literature-bert
 
-python class for literature training from biomedical literature. It reads the text from the pdf and then implements the tokens and then uses the BERT model to train the model. This class is still in development and i shall be completing it and updating it daily for the complete functions. 
+python class for literature training from biomedical literature. It reads the text from the pdf and then implements the tokens and then uses the BERT model to train the model. This class is still in development and i shall be completing it and updating for the complete functions. 
 
 Gaurav Sablok \
 Academic Staff Member \
